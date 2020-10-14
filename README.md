@@ -2,7 +2,7 @@
 A Simple Python Chat Room
 
 
-# Commands
+# Server Commands
 /help - Shows a help menu that lists these commands.
 /mute - Prevents the server from transmitting a clients messages to other clients for a specified amount of time.
 /kick - Kicks a user.
