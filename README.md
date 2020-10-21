@@ -9,4 +9,6 @@ A Simple Python Chat Room
 /uptime - States the amount of time that the server has been up.
 /whoishere - States how many users are online and what their IP addresses are.
 
+# Client Commands
+/whoishere - States how many users are online and what their IP addresses are.
 Made By Pixel8edstudios.
